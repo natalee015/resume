@@ -74,7 +74,7 @@ li{
 }
 
 #bio{
-    font-weight: 300;
+    font-weight: 400;
 }
 
 #profile-pic{
@@ -109,6 +109,7 @@ li{
 
 #qualifications-list{
     list-style: none;
+    
 
 }
 
@@ -126,7 +127,6 @@ li{
 }
 
 .card--work-history{
-    border-left: 1px solid var(--mainBorderColor);
     margin-top: 3em;
     margin-bottom: 3em;
     padding-left: 2em;
